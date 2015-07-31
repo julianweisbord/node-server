@@ -1,0 +1,11 @@
+body{
+  float: left;
+  text-align: center;
+  background: green;
+}
+
+.offer{
+  margin: 5%;
+  padding: 5%;
+  border: 4px solid black;
+}
